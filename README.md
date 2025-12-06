@@ -55,7 +55,8 @@ The objective is to develop a comprehensive regional business performance analys
 
  File `fact_txn_month_raw_data`
 
-![image](https://github.com/user-attachments/assets/b4a94931-169a-4e51-a9b7-a3f92e90eafe)
+<img width="1000" height="547" alt="image" src="https://github.com/user-attachments/assets/7385d320-8b32-4e1e-b7e6-b75c9f45a942" />
+
 
 
 
@@ -63,7 +64,8 @@ The objective is to develop a comprehensive regional business performance analys
 
  File `fact_kpi_month_raw_data`
 
- ![image](https://github.com/user-attachments/assets/9ab93669-f2af-424d-b692-dd1bd5c53d9a)
+<img width="1002" height="467" alt="image" src="https://github.com/user-attachments/assets/f9e33b4e-545a-498a-939c-8a17be112c7d" />
+
 
 
 
@@ -86,7 +88,7 @@ Table `dim_report_item`: Information about the criteria of the report table
 
 - Use PL/SQL programming to create a report that runs for each month in 2023.
 
-By providing the YYYYMM parameter, the system can dynamically generate monthly reports by extracting relevant data from the fact tables and joining it with the pre-defined dimension tables. This automated process ensures consistency, reduces manual intervention, and allows for scalable reporting across different time periods with accurate and up-to-date information. [View more](https://github.com/NguyenDuc061104/Project/blob/main/store_procedure.sql)
+By providing the YYYYMM parameter, the system can dynamically generate monthly reports by extracting relevant data from the fact tables and joining it with the pre-defined dimension tables. This automated process ensures consistency, reduces manual intervention, and allows for scalable reporting across different time periods with accurate and up-to-date information. [View more](https://github.com/NguyenDuc061104/Project/blob/main/procedure_report.sql)
 
 ## 3. Dashboards
 
